@@ -3,7 +3,7 @@ Response to the MBIE discussion paper on options for the Consumer Data Right. De
 
 ## Why are we using GitHub
 
-Github is a distributed version management system that allow the members of the Collective, as well as research teams and consultants, to contribute insights into the Data Economy Collective submission. 
+Github is a distributed version management system that allow the members of the Collective, as well as research teams and workshop participants, to contribute insights into the Data Economy Collective submission. 
 
 This is an area of ongoing collaboration and research.
 
